@@ -16,3 +16,6 @@ Wyświetla informacje na temat katalogu projeku
 Tworzy nowy branch
 
 `git branch new`
+
+### git branch -d develop
+Usuwa gałąź o nazwie develop 
