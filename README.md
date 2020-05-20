@@ -12,7 +12,7 @@ Wyświetla informacje na temat katalogu projeku
 
 `git status`
 
-###VIM
+### VIM
 :q! – wyjście bez zapisania zmian
 :w plik – zapisanie w nowym pliku „plik”
 
