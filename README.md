@@ -12,9 +12,14 @@ Wyświetla informacje na temat katalogu projeku
 
 `git status`
 
-
-
-
 ###VIM
 :q! – wyjście bez zapisania zmian
 :w plik – zapisanie w nowym pliku „plik”
+
+### git branch
+Tworzy nowy branch
+
+`git branch new`
+
+### git branch -d develop
+Usuwa gałąź o nazwie develop 
