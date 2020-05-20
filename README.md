@@ -11,3 +11,6 @@ Skonfigurowanie klienta gita - dodanie nazwy użytkownika i email
 Wyświetla informacje na temat katalogu projeku
 
 `git status`
+
+### git branch -d develop
+Usuwa gałąź o nazwie develop 
