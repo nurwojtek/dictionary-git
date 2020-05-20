@@ -11,3 +11,10 @@ Skonfigurowanie klienta gita - dodanie nazwy użytkownika i email
 Wyświetla informacje na temat katalogu projeku
 
 `git status`
+
+
+
+
+###VIM
+:q! – wyjście bez zapisania zmian
+:w plik – zapisanie w nowym pliku „plik”
