@@ -1,2 +1,4 @@
 example text
 moje zmiany
+dawdawdawdwadwadaw
+dadawdawdawdadw
