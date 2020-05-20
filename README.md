@@ -14,7 +14,7 @@ Wyświetla informacje na temat katalogu projeku
 
 ### VIM
 :q! – wyjście bez zapisania zmian
-:w plik – zapisanie w nowym pliku „plik”
+:w plik – zapisanie w nowym pliku „plik” 
 
 ### git branch
 Tworzy nowy branch
