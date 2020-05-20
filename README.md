@@ -11,3 +11,8 @@ Skonfigurowanie klienta gita - dodanie nazwy użytkownika i email
 Wyświetla informacje na temat katalogu projeku
 
 `git status`
+
+### git branch
+Tworzy nowy branch
+
+`git branch new`
