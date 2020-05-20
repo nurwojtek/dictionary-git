@@ -12,5 +12,10 @@ Wyświetla informacje na temat katalogu projeku
 
 `git status`
 
+### git branch
+Tworzy nowy branch
+
+`git branch new`
+
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
